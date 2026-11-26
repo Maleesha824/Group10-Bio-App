@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715899551092",
+    "project_id": "group10-bio-app",
+    "storage_bucket": "group10-bio-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715899551092:android:136fffd065eb0284408021",
+        "android_client_info": {
+          "package_name": "com.example.group10_bio_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDfHZJ8-ecdbnyweD4a5G9bqUsztACMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
